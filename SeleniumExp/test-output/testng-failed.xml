@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [My Suite1]">
+  <listeners>
+    <listener class-name="testUtils.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" name="My Test1(failed)">
+    <classes>
+      <class name="org.demo.selenium.test.MercuryTest">
+        <methods>
+          <include name="setUpResources"/>
+          <include name="startClass"/>
+          <include name="killResources"/>
+          <include name="killMethod"/>
+          <include name="InvalidLoginToMercury"/>
+          <include name="killClass"/>
+          <include name="startMethod"/>
+        </methods>
+      </class> <!-- org.demo.selenium.test.MercuryTest -->
+    </classes>
+  </test> <!-- My Test1(failed) -->
+</suite> <!-- Failed suite [My Suite1] -->

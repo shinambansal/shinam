@@ -1,0 +1,6 @@
+2019-03-07 19:08:54,568 - MercuryTest---ValidLoginToMercury -INFO - VALIDLOGINTOMERCURY Execution Started
+2019-03-07 19:09:10,625 - MercuryTest---ValidLoginToMercury -INFO - VALIDLOGINTOMERCURY Execution Ended
+2019-03-07 19:11:06,279 - MercuryTest---ValidLoginToMercury -INFO - VALIDLOGINTOMERCURY Execution Started
+2019-03-07 19:11:22,260 - MercuryTest---ValidLoginToMercury -INFO - VALIDLOGINTOMERCURY Execution Ended
+2019-03-07 19:12:22,443 - MercuryTest---InvalidLoginToMercury -INFO - INVALIDLOGINTOMERCURY Execution Started
+2019-03-07 19:12:34,988 - MercuryTest---InvalidLoginToMercury -INFO - INVALIDLOGINTOMERCURY Execution Ended
